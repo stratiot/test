@@ -1,1 +1,1 @@
-print 'Hello my my World!'
+print 'Hello my World!'
